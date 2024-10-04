@@ -1,3 +1,13 @@
+//IMPORANT NOTE:
+// 1.2 Selecting a Third-Party Package
+// 1.2.1 Things to Consider
+// Users Satisfaction
+// Popularity (number of stars)
+// Maintenance
+// Documentation
+// Number of unresolved issues
+// Compare the packages in the above categories and pick one for the application.
+
 import ReactPlayer from 'react-player'
 import './index.css'
 
