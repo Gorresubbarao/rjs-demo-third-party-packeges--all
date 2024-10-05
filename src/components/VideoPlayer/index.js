@@ -1,4 +1,4 @@
-//IMPORANT NOTE:
+// IMPORANT NOTE:
 // 1.2 Selecting a Third-Party Package
 // 1.2.1 Things to Consider
 // Users Satisfaction
